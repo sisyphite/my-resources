@@ -1,0 +1,227 @@
+{
+  "title": "Bookmarks",
+  "children": [
+    {
+      "title": "Knowledge",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "Khan Academy",
+              "url": "https://www.khanacademy.org/",
+              "tags": [],
+              "note": "可汗学院免费课程"
+            },
+            {
+              "title": "BBC Learning English",
+              "url": "https://www.bbc.co.uk/learningenglish/",
+              "tags": ["language"],
+              "note": "BBC的英语教学课"
+            }
+          ]
+        },
+        {
+          "title": "Reference",
+          "children": [
+            {
+              "title": "The Java Language Specification",
+              "url": "https://docs.oracle.com/javase/specs/jls/se22/html/index.html",
+              "tags": ["java", "spec"],
+              "note": "Java语言规范"
+            },
+            {
+              "title": "The Java Virtual Machine Specification",
+              "url": "https://docs.oracle.com/javase/specs/jvms/se22/html/index.html",
+              "tags": ["java", "spec"],
+              "note": "Java虚拟机规范"
+            },
+            {
+              "title": "ISO/IEC 9899:2024 (C)",
+              "url": "https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3220.pdf",
+              "tags": ["c", "spec"],
+              "note": "C语言规范草案"
+            },
+            {
+              "title": "Python 3.12 Documentation",
+              "url": "https://docs.python.org/3.12/",
+              "tags": ["python"],
+              "note": "Python3.12文档"
+            },
+            {
+              "title": "Bash Reference Manual",
+              "url": "https://www.gnu.org/software/bash/manual/bash.html",
+              "tags": ["bash"],
+              "note": "Bash使用手册"
+            },
+            {
+              "title": "DevDocs",
+              "url": "https://devdocs.io/",
+              "tags": ["reference", "programming"],
+              "note": "多语言 API 文档聚合"
+            },
+            {
+              "title": "HTML Standard",
+              "url": "https://html.spec.whatwg.org/",
+              "tags": ["web", "spec", "html"],
+              "note": "HTML规范"
+            },
+            {
+              "title": "RFC Editor",
+              "url": "https://www.rfc-editor.org/standards",
+              "tags": ["networking", "spec"],
+              "note": "网络协议聚合"
+            },
+            {
+              "title": "RFC 9110 HTTP Semantics",
+              "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+              "tags": ["networking", "spec"],
+              "note": "HTTP协议"
+            }
+          ]
+        },
+        {
+          "title": "Coverage",
+          "children": [
+            {
+              "title": "Benedict Evans",
+              "url": "https://www.ben-evans.com/",
+              "tags": ["tech"],
+              "note": "Benedict Evans的个人文章,思考深入,语言犀利,风格鲜明"
+            },
+            {
+              "title": "Stratechery",
+              "url": "https://stratechery.com/",
+              "tags": ["tech"],
+              "note": "Ben Thompson也是独立分析师,水准一流"
+            }
+          ]
+        },
+        {
+          "title": "Wiki",
+          "children": [
+            {
+              "title": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/",
+              "tags": ["philosophy"],
+              "note": "斯坦福哲学百科"
+            }
+          ]
+        },
+        {
+          "title": "Digital Library",
+          "children": [
+            {
+              "title": "Z-Library",
+              "url": "https://z-library.sk/",
+              "tags": ["books", "frequency"],
+              "note": "全球第一的开放书库"
+            },
+            {
+              "title": "Library Genesis",
+              "url": "http://libgen.rs/",
+              "tags": ["books"],
+              "note": "俄罗斯大佬的书库"
+            },
+            {
+              "title": "Semantic Scholar",
+              "url": "https://www.semanticscholar.org/",
+              "tags": ["papers"],
+              "note": "免费学术论文库"
+            },
+            {
+              "title": "Google Scholar",
+              "url": "https://scholar.google.com/",
+              "tags": ["papers", "google"],
+              "note": "比较全面的论文检索工具"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tool",
+      "children": [
+        {
+          "title": "Chatbot",
+          "children": [
+            {
+              "title": "ChatGPT",
+              "url": "https://chatgpt.com/",
+              "tags": ["ai"],
+              "note": "通用大模型对话, AI首选"
+            },
+            {
+              "title": "Claude",
+              "url": "https://claude.ai/new",
+              "tags": ["ai"],
+              "note": "代码能力强"
+            },
+            {
+              "title": "Gemini",
+              "url": "https://gemini.google.com/app",
+              "tags": ["ai", "google"],
+              "note": "持续进步, Google背书"
+            },
+            {
+              "title": "Grok",
+              "url": "https://grok.com/",
+              "tags": ["ai"],
+              "note": "Elon Musk的AI"
+            },
+            {
+              "title": "DeepSeek",
+              "url": "https://chat.deepseek.com",
+              "tags": ["ai"],
+              "note": "国内出品, 中文能力强"
+            }
+          ]
+        },
+        {
+          "title": "File Processing",
+          "children": [
+            {
+              "title": "iLovePDF",
+              "url": "https://www.ilovepdf.com/zh-cn",
+              "tags": ["pdf"],
+              "note": "PDF 在线处理"
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "children": [
+            {
+              "title": "Compiler Explorer",
+              "url": "https://godbolt.org/",
+              "tags": ["compiler", "c", "python", "java"],
+              "note": "实时查看编译器输出, 如C编译后的汇编指令,Python及Java编译后的字节码等"
+            },
+            {
+              "title": "Google Colab",
+              "url": "https://colab.research.google.com/",
+              "tags": ["notebook", "google", "python", "r"],
+              "note": "Google提供的云计算环境,适合学习"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Life & Career",
+      "children": [
+        {
+          "title": "Email",
+          "children": [
+            {
+              "title": "Proton Mail",
+              "url": "https://proton.me/",
+              "tags": ["privacy"],
+              "note": "全球隐私保护最严格的邮箱"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
