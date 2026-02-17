@@ -1,0 +1,39 @@
+body {
+  font-family: system-ui, serif;
+  background: #f8f8f6;
+  color: #222;
+  margin: 2rem;
+}
+
+header {
+  margin-bottom: 1.5rem;
+}
+
+#tagFilter {
+  width: 300px;
+  padding: 0.4rem;
+  font-size: 1rem;
+}
+
+.node {
+  margin-left: 1.2rem;
+}
+
+.item {
+  cursor: pointer;
+  position: relative;
+  margin: 0.3rem 0;
+}
+
+.item:hover::after {
+  content: attr(data-note);
+  position: absolute;
+  left: 1.2rem;
+  top: 1.2rem;
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 0.4rem;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  z-index: 10;
+}
